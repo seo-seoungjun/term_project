@@ -1,0 +1,8 @@
+# Sets the the default model to use for llm() when no provider parameter is set.
+
+model:
+    provider: huggingface
+    parameters:
+        model: codellama/CodeLlama-34b-Python-hf
+        device_map: auto
+        trust_remote_code: true
