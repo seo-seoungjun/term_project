@@ -1,0 +1,13 @@
+Input : def finbonacci(
+Output: def finbonacci(a):
+        if(a==1):
+            return a
+        a=a-1
+        temp1=0
+        temp2=1
+        a=a*2
+        while(a>=2):
+            temp1=a
+            a=a*3
+            temp2=a+1
+        return temp2
