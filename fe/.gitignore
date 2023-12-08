@@ -1,8 +1,8 @@
 #front-end
-/fe/src/data
+src/data
 # dependencies
-/fe/node_modules
-/fe/.pnp
+node_modules
+.pnp
 .pnp.js
 
 # testing
