@@ -31,4 +31,8 @@ prompt enginering을 통해 주어진 데이터를 시각화해주는 프로그�
 <img width="394" alt="스크린샷 2023-12-09 오후 4 08 10" src="https://github.com/seo-seoungjun/term_project/assets/79730690/d7bf3e5f-cbd1-4a68-9663-11fee25252e6"> <br/>
 6. 분석이 완료되면 /analytics로 리다이렉트 되며 분석이 완료된 데이터는 캐쉬와 브라우저의 로컬스토리지에 저장됩니다 <br/>
 <img width="1071" alt="스크린샷 2023-12-09 오후 4 15 47" src="https://github.com/seo-seoungjun/term_project/assets/79730690/5e7e37fb-3df2-41e2-a73a-2ea1fc9f3624"> <br/>
-<img width="1071" alt="스크린샷 2023-12-09 오후 4 16 01" src="https://github.com/seo-seoungjun/term_project/assets/79730690/3c2eb338-055b-48be-8c0b-4e1353d819a7">
+<img width="1071" alt="스크린샷 2023-12-09 오후 4 16 01" src="https://github.com/seo-seoungjun/term_project/assets/79730690/3c2eb338-055b-48be-8c0b-4e1353d819a7"> <br/>
+
+<h1>license</h1>
+
+MIT license
