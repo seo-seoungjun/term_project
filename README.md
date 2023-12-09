@@ -4,7 +4,7 @@ prompt enginering을 통해 주어진 데이터를 시각화해주는 프로그�
 <h1>Installation</h1>
 
 1. fe 폴더를 다운로드 합니다
-2. 퐅더 루트에서 npm install 커멘드 입력을 통해 실행에 필요한 package를 다운도르 합니다
+2. fe 폴더 루트에서 npm install 커멘드 입력을 통해 실행에 필요한 package를 다운도르 합니다
 3. npm start로 프로그램을 실행시킵니다 (default port로 3000이 설정되어 있습니다. cors 문제 발생 방지를 위해 포트 변경은 하지 말아주세요)
 
 <h1>How to use</h1>
